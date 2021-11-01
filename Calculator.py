@@ -5,3 +5,9 @@ class Calculator:
     def sub(self,firstNumber,secondNumber):
         return firstNumber-secondNumber
     
+    def Multi(self,firstNumber,secondNumber):
+        return firstNumber*secondNumber
+        
+    def Div(self,firstNumber,secondNumber):
+        return firstNumber/secondNumber
+    
